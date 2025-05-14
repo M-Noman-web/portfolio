@@ -34,7 +34,7 @@ This is my personal developer portfolio website built using React and styled-com
 
 - Name: **Muhammad Noman**
 - GitHub: [@M-Noman-web](https://github.com/M-Noman-web)
-- LinkedIn: [Muhammad Noman](www.linkedin.com/in/muhammad-noman-aa9626365)
+- LinkedIn: [Muhammad Noman](https://www.linkedin.com/in/muhammad-noman-aa9626365)
 
 ## 📌 License
 
