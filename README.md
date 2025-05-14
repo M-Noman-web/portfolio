@@ -1,12 +1,42 @@
-# React + Vite
+# 💼 Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my personal developer portfolio website built using React and styled-components. It showcases my projects, skills, and a little bit about me.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+👉 [Visit Portfolio](https://portfolio-eight-cyan-85.vercel.app)
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React.js
+- Styled Components
+- JavaScript (ES6+)
+- HTML5 & CSS3
+- Git & GitHub
+
+## 📂 Features
+
+- Responsive design (mobile + desktop)
+- Animated hero section
+- Project showcase with live demo and GitHub links
+- Skills section
+- About Me section
+- Contact form
+
+## 🧠 What I Learned
+
+- React functional components and hooks
+- Managing state and props
+- Using styled-components for scoped styling
+- GitHub workflows for deploying with Vercel
+
+## ✍️ Author
+
+- Name: **Muhammad Noman**
+- GitHub: [@M-Noman-web](https://github.com/M-Noman-web)
+- LinkedIn: [Muhammad Noman](www.linkedin.com/in/muhammad-noman-aa9626365)
+
+## 📌 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
