@@ -79,14 +79,14 @@ const Projects = () => {
           </ProjectDesc>
           <div>
             <ProjectLink
-              href="https://your-live-demo-link.com" // Replace with live demo link
+              href="https://todo-app-1bc2.vercel.app" // Replace with live demo link
               target="_blank"
             >
               Live Demo
             </ProjectLink>{" "}
             |{" "}
             <ProjectLink
-              href="https://github.com/yourusername/todo-app" // Replace with your GitHub link
+              href="https://github.com/M-Noman-web/todo-app.git" // Replace with your GitHub link
               target="_blank"
             >
               GitHub
@@ -102,14 +102,14 @@ const Projects = () => {
           </ProjectDesc>
           <div>
             <ProjectLink
-              href="https://your-live-demo-link.com" // Replace with live demo link
+              href="https://quiz-app-4vr6.vercel.app" // Replace with live demo link
               target="_blank"
             >
               Live Demo
             </ProjectLink>{" "}
             |{" "}
             <ProjectLink
-              href="https://github.com/yourusername/quiz-app" // Replace with your GitHub link
+              href="https://github.com/M-Noman-web/Quiz-app.git" // Replace with your GitHub link
               target="_blank"
             >
               GitHub
