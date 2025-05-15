@@ -93,6 +93,29 @@ const Projects = () => {
             </ProjectLink>
           </div>
         </ProjectCard>
+        <ProjectCard>
+          <ProjectTitle>Weather App 🌤️</ProjectTitle>
+          <ProjectDesc>
+            A simple weather app built with React and OpenWeather API. Users can
+            enter a city and view the current temperature, humidity, and wind
+            speed.
+          </ProjectDesc>
+          <div>
+            <ProjectLink
+              href="https://weather-app-iota-eight-38.vercel.app" // Replace with live demo link
+              target="_blank"
+            >
+              Live Demo
+            </ProjectLink>{" "}
+            |{" "}
+            <ProjectLink
+              href="https://github.com/M-Noman-web/weather-app.git" // Replace with your GitHub link
+              target="_blank"
+            >
+              GitHub
+            </ProjectLink>
+          </div>
+        </ProjectCard>
 
         <ProjectCard>
           <ProjectTitle>Quiz App</ProjectTitle>

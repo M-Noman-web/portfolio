@@ -30,6 +30,15 @@ const Paragraph = styled.p`
   @media (min-width: 768px) {
     font-size: 1.2rem;
   }
+
+  a {
+    color: #38bdf8;
+    text-decoration: underline;
+
+    &:hover {
+      color: #0ea5e9;
+    }
+  }
 `;
 
 const About = () => {
@@ -39,8 +48,18 @@ const About = () => {
       <Paragraph>
         I'm a passionate Front-End Developer with a love for creating sleek and
         user-friendly web interfaces. I specialize in React.js and enjoy
-        building things that live on the web. I love bringing ideas to life —
-        from concept to production.
+        building things that live on the web. I love bringing ideas to life — 
+        from concept to production.{" "}
+        <br />
+        Connect with me on{" "}
+        <a
+          href="https://www.linkedin.com/in/muhammad-noman-aa9626365"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          LinkedIn
+        </a>
+        .
       </Paragraph>
     </AboutSection>
   );

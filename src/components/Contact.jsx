@@ -35,7 +35,7 @@ const Contact = () => (
   <ContactSection id="contact">
     <Heading>Contact Me</Heading>
     <p>You can reach me via email:</p>
-    <Email href="mailto:uk480208@gmail.com">uk480208@gmail.com</Email>
+    <Email href="mailto:nk6537711@gmail.com">nk6537711@gmail.com</Email>
   </ContactSection>
 );
 
